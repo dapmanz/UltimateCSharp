@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\bin\Debug\net8.0\SortedList.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\bin\Debug\net8.0\SortedList.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\bin\Debug\net8.0\SortedList.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\bin\Debug\net8.0\SortedList.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\bin\Debug\net8.0\SortedList.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\refint\SortedList.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\SortedList.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_33\SortedList\SortedList\obj\Debug\net8.0\ref\SortedList.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\CodingExercise_46\\Equals_Override\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D30F10C-93AF-4325-8F78-7CDCF1A714D4}|Equals_Override\\Equals_Override.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\codingexercise_46\\equals_override\\equals_override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D30F10C-93AF-4325-8F78-7CDCF1A714D4}|Equals_Override\\Equals_Override.csproj|solutionrelative:equals_override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\CodingExercise_46\\Equals_Override\\Equals_Override\\Program.cs",
+              "RelativeDocumentMoniker": "Equals_Override\\Program.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\CodingExercise_46\\Equals_Override\\Equals_Override\\Program.cs",
+              "RelativeToolTip": "Equals_Override\\Program.cs",
+              "ViewState": "AQIAAAMAAABgMjMzMzMrwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:50:56.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

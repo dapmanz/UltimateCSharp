@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.exe
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\bin\Debug\net8.0\StarWarsPlanetsStats.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\refint\StarWarsPlanetsStats.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\StarWarsPlanetsStats.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\Assignment_StarWarsPlanetsStats\StarWarsPlanetsStats\StarWarsPlanetsStats\obj\Debug\net8.0\ref\StarWarsPlanetsStats.dll

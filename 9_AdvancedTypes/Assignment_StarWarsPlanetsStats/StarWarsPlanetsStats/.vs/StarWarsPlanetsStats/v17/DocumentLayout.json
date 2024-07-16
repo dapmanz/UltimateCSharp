@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\app\\starwarsplanetsstatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\app\\starwarsplanetsstatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\planetdata\\planetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\planetdata\\planetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\api\\apidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\api\\apidatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\planetdata\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\planetdata\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\userinteraction\\consoleuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\userinteraction\\consoleuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\userinteraction\\iuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\userinteraction\\iuserinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\9_advancedtypes\\assignment_starwarsplanetsstats\\starwarsplanetsstats\\starwarsplanetsstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BF55FD-3C9D-41E8-9837-D3B70485B67F}|StarWarsPlanetsStats\\StarWarsPlanetsStats.csproj|solutionrelative:starwarsplanetsstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarWarsPlanetsStatsApp.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\App\\StarWarsPlanetsStatsApp.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\App\\StarWarsPlanetsStatsApp.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\App\\StarWarsPlanetsStatsApp.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\App\\StarWarsPlanetsStatsApp.cs",
+              "ViewState": "AQIAABMAAAAAyczMzMwEwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:35:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\PlanetData\\PlanetInfo.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\PlanetData\\PlanetInfo.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\PlanetData\\PlanetInfo.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\PlanetData\\PlanetInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:34:38.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\API\\ApiDataReader.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\API\\ApiDataReader.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\API\\ApiDataReader.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\API\\ApiDataReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:33:54.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanetData.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\PlanetData\\PlanetData.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\PlanetData\\PlanetData.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\PlanetData\\PlanetData.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\PlanetData\\PlanetData.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:33:20.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\UserInteraction\\IUserInteractor.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\UserInteraction\\IUserInteractor.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\UserInteraction\\IUserInteractor.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\UserInteraction\\IUserInteractor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:57:53.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleUserInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\UserInteraction\\ConsoleUserInteractor.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\UserInteraction\\ConsoleUserInteractor.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\UserInteraction\\ConsoleUserInteractor.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\UserInteraction\\ConsoleUserInteractor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:10:41.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\Program.cs",
+              "RelativeDocumentMoniker": "StarWarsPlanetsStats\\Program.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\9_AdvancedTypes\\Assignment_StarWarsPlanetsStats\\StarWarsPlanetsStats\\StarWarsPlanetsStats\\Program.cs",
+              "RelativeToolTip": "StarWarsPlanetsStats\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:07:14.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

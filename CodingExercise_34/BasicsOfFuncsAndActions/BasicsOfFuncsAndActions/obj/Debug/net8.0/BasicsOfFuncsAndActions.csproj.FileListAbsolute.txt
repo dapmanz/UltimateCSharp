@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\bin\Debug\net8.0\BasicsOfFuncsAndActions.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\bin\Debug\net8.0\BasicsOfFuncsAndActions.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\bin\Debug\net8.0\BasicsOfFuncsAndActions.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\bin\Debug\net8.0\BasicsOfFuncsAndActions.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\bin\Debug\net8.0\BasicsOfFuncsAndActions.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\refint\BasicsOfFuncsAndActions.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\BasicsOfFuncsAndActions.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_34\BasicsOfFuncsAndActions\BasicsOfFuncsAndActions\obj\Debug\net8.0\ref\BasicsOfFuncsAndActions.dll

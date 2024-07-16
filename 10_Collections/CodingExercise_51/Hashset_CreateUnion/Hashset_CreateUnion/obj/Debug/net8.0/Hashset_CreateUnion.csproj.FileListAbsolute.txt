@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\bin\Debug\net8.0\Hashset_CreateUnion.exe
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\bin\Debug\net8.0\Hashset_CreateUnion.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\bin\Debug\net8.0\Hashset_CreateUnion.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\bin\Debug\net8.0\Hashset_CreateUnion.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\bin\Debug\net8.0\Hashset_CreateUnion.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\refint\Hashset_CreateUnion.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\Hashset_CreateUnion.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CodingExercise_51\Hashset_CreateUnion\Hashset_CreateUnion\obj\Debug\net8.0\ref\Hashset_CreateUnion.dll

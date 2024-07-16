@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\bin\Debug\net8.0\Any_n_All.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\bin\Debug\net8.0\Any_n_All.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\bin\Debug\net8.0\Any_n_All.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\bin\Debug\net8.0\Any_n_All.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\bin\Debug\net8.0\Any_n_All.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\refint\Any_n_All.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\Any_n_All.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_37\Any_n_All\Any_n_All\obj\Debug\net8.0\ref\Any_n_All.dll

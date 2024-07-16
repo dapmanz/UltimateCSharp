@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\bin\Debug\net8.0\SelectAndAverage.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\bin\Debug\net8.0\SelectAndAverage.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\bin\Debug\net8.0\SelectAndAverage.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\bin\Debug\net8.0\SelectAndAverage.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\bin\Debug\net8.0\SelectAndAverage.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\refint\SelectAndAverage.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\SelectAndAverage.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_41\SelectAndAverage\SelectAndAverage\obj\Debug\net8.0\ref\SelectAndAverage.dll

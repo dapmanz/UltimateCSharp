@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\bin\Debug\net8.0\ObjectToTextConverter.exe
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\bin\Debug\net8.0\ObjectToTextConverter.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\bin\Debug\net8.0\ObjectToTextConverter.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\bin\Debug\net8.0\ObjectToTextConverter.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\bin\Debug\net8.0\ObjectToTextConverter.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\refint\ObjectToTextConverter.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ObjectToTextConverter.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ObjectToTextConverter\ObjectToTextConverter\ObjectToTextConverter\obj\Debug\net8.0\ref\ObjectToTextConverter.dll

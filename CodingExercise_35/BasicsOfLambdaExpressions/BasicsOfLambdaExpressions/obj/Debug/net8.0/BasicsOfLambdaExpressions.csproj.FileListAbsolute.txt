@@ -1,0 +1,4 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_35\BasicsOfLambdaExpressions\BasicsOfLambdaExpressions\obj\Debug\net8.0\BasicsOfLambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_35\BasicsOfLambdaExpressions\BasicsOfLambdaExpressions\obj\Debug\net8.0\BasicsOfLambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_35\BasicsOfLambdaExpressions\BasicsOfLambdaExpressions\obj\Debug\net8.0\BasicsOfLambdaExpressions.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_35\BasicsOfLambdaExpressions\BasicsOfLambdaExpressions\obj\Debug\net8.0\BasicsOfLambdaExpressions.csproj.CoreCompileInputs.cache

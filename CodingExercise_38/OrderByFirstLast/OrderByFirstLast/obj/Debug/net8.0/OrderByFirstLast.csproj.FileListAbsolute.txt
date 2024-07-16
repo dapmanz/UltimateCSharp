@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\bin\Debug\net8.0\OrderByFirstLast.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\bin\Debug\net8.0\OrderByFirstLast.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\bin\Debug\net8.0\OrderByFirstLast.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\bin\Debug\net8.0\OrderByFirstLast.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\bin\Debug\net8.0\OrderByFirstLast.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\refint\OrderByFirstLast.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\OrderByFirstLast.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\OrderByFirstLast\OrderByFirstLast\obj\Debug\net8.0\ref\OrderByFirstLast.dll

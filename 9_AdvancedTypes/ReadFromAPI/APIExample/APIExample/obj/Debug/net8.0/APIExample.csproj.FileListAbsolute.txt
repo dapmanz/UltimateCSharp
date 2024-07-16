@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\bin\Debug\net8.0\APIExample.exe
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\bin\Debug\net8.0\APIExample.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\bin\Debug\net8.0\APIExample.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\bin\Debug\net8.0\APIExample.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\bin\Debug\net8.0\APIExample.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\refint\APIExample.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\APIExample.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\ReadFromAPI\APIExample\APIExample\obj\Debug\net8.0\ref\APIExample.dll

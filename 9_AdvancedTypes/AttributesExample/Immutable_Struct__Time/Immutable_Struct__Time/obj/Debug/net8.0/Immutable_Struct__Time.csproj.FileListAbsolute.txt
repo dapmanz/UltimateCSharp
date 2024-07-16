@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\bin\Debug\net8.0\Immutable_Struct__Time.exe
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\bin\Debug\net8.0\Immutable_Struct__Time.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\bin\Debug\net8.0\Immutable_Struct__Time.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\bin\Debug\net8.0\Immutable_Struct__Time.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\bin\Debug\net8.0\Immutable_Struct__Time.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\refint\Immutable_Struct__Time.dll
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\Immutable_Struct__Time.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\9_AdvancedTypes\AttributesExample\Immutable_Struct__Time\Immutable_Struct__Time\obj\Debug\net8.0\ref\Immutable_Struct__Time.dll

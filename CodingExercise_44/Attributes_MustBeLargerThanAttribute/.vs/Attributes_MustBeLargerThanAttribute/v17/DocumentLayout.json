@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\CodingExercise_44\\Attributes_MustBeLargerThanAttribute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6A53B-0ACD-4156-8002-2AA418FC3A46}|Attributes_MustBeLargerThanAttribute\\Attributes_MustBeLargerThanAttribute.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\codingexercise_44\\attributes_mustbelargerthanattribute\\attributes_mustbelargerthanattribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6A53B-0ACD-4156-8002-2AA418FC3A46}|Attributes_MustBeLargerThanAttribute\\Attributes_MustBeLargerThanAttribute.csproj|solutionrelative:attributes_mustbelargerthanattribute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\CodingExercise_44\\Attributes_MustBeLargerThanAttribute\\Attributes_MustBeLargerThanAttribute\\Program.cs",
+              "RelativeDocumentMoniker": "Attributes_MustBeLargerThanAttribute\\Program.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\CodingExercise_44\\Attributes_MustBeLargerThanAttribute\\Attributes_MustBeLargerThanAttribute\\Program.cs",
+              "RelativeToolTip": "Attributes_MustBeLargerThanAttribute\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:57:01.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dictionaries__FindMaxWeightOfPets/1.0.0": {
+        "runtime": {
+          "Dictionaries__FindMaxWeightOfPets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionaries__FindMaxWeightOfPets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

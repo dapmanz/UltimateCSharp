@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\bin\Debug\net8.0\ref_FastforwardToSummer.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\bin\Debug\net8.0\ref_FastforwardToSummer.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\bin\Debug\net8.0\ref_FastforwardToSummer.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\bin\Debug\net8.0\ref_FastforwardToSummer.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\bin\Debug\net8.0\ref_FastforwardToSummer.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\refint\ref_FastforwardToSummer.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref_FastforwardToSummer.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_42\ref_FastforwardToSummer\ref_FastforwardToSummer\obj\Debug\net8.0\ref\ref_FastforwardToSummer.dll

@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\bin\Debug\net8.0\CustomCashe.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\bin\Debug\net8.0\CustomCashe.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\bin\Debug\net8.0\CustomCashe.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\bin\Debug\net8.0\CustomCashe.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\bin\Debug\net8.0\CustomCashe.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\refint\CustomCashe.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\CustomCashe.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CustomCacheAssignment_Sln1\CustomCashe\CustomCashe\obj\Debug\net8.0\ref\CustomCashe.dll

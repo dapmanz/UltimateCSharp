@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\bin\Debug\net8.0\IEnumerable_Generic.exe
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\bin\Debug\net8.0\IEnumerable_Generic.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\bin\Debug\net8.0\IEnumerable_Generic.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\bin\Debug\net8.0\IEnumerable_Generic.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\bin\Debug\net8.0\IEnumerable_Generic.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\refint\IEnumerable_Generic.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\IEnumerable_Generic.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\CustomCollections\IEnumerable_Generic\IEnumerable_Generic\obj\Debug\net8.0\ref\IEnumerable_Generic.dll

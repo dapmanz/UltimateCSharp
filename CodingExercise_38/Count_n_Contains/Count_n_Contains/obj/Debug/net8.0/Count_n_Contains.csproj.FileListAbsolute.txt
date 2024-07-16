@@ -1,0 +1,14 @@
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\bin\Debug\net8.0\Count_n_Contains.exe
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\bin\Debug\net8.0\Count_n_Contains.deps.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\bin\Debug\net8.0\Count_n_Contains.runtimeconfig.json
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\bin\Debug\net8.0\Count_n_Contains.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\bin\Debug\net8.0\Count_n_Contains.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.AssemblyInfo.cs
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\refint\Count_n_Contains.dll
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.pdb
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\Count_n_Contains.genruntimeconfig.cache
+C:\Users\vince\OneDrive\UltimateCSharp\CodingExercise_38\Count_n_Contains\Count_n_Contains\obj\Debug\net8.0\ref\Count_n_Contains.dll

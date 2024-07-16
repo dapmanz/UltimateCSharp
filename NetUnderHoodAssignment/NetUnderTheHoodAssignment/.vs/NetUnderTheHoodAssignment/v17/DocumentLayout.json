@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\netunderhoodassignment\\netunderthehoodassignment\\netunderthehoodassignment\\newsolution\\fasttabledatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|solutionrelative:netunderthehoodassignment\\newsolution\\fasttabledatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\netunderhoodassignment\\netunderthehoodassignment\\netunderthehoodassignment\\oldsolution\\row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|solutionrelative:netunderthehoodassignment\\oldsolution\\row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\netunderhoodassignment\\netunderthehoodassignment\\netunderthehoodassignment\\newsolution\\fastcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|solutionrelative:netunderthehoodassignment\\newsolution\\fastcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\netunderhoodassignment\\netunderthehoodassignment\\netunderthehoodassignment\\oldsolution\\tabledatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|solutionrelative:netunderthehoodassignment\\oldsolution\\tabledatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\netunderhoodassignment\\netunderthehoodassignment\\netunderthehoodassignment\\oldsolution\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|solutionrelative:netunderthehoodassignment\\oldsolution\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|c:\\users\\vince\\onedrive\\ultimatecsharp\\netunderhoodassignment\\netunderthehoodassignment\\netunderthehoodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7C91E6-974C-48A0-A161-14A245015963}|NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment.csproj|solutionrelative:netunderthehoodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FastContainer.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\NewSolution\\FastContainer.cs",
+              "RelativeDocumentMoniker": "NetUnderTheHoodAssignment\\NewSolution\\FastContainer.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\NewSolution\\FastContainer.cs",
+              "RelativeToolTip": "NetUnderTheHoodAssignment\\NewSolution\\FastContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:51:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "NetUnderTheHoodAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\Program.cs",
+              "RelativeToolTip": "NetUnderTheHoodAssignment\\Program.cs",
+              "ViewState": "AQIAABAAAABwKzMzMzMLwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:28:21.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Row.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\OldSolution\\Row.cs",
+              "RelativeDocumentMoniker": "NetUnderTheHoodAssignment\\OldSolution\\Row.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\OldSolution\\Row.cs",
+              "RelativeToolTip": "NetUnderTheHoodAssignment\\OldSolution\\Row.cs",
+              "ViewState": "AQIAAA0AAAAA+/////8PwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:53:54.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastTableDataBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\NewSolution\\FastTableDataBuilder.cs",
+              "RelativeDocumentMoniker": "NetUnderTheHoodAssignment\\NewSolution\\FastTableDataBuilder.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\NewSolution\\FastTableDataBuilder.cs",
+              "RelativeToolTip": "NetUnderTheHoodAssignment\\NewSolution\\FastTableDataBuilder.cs",
+              "ViewState": "AQIAAEcAAAAA6GNmZmbev00AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:41:23.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableData.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\OldSolution\\TableData.cs",
+              "RelativeDocumentMoniker": "NetUnderTheHoodAssignment\\OldSolution\\TableData.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\OldSolution\\TableData.cs",
+              "RelativeToolTip": "NetUnderTheHoodAssignment\\OldSolution\\TableData.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:40:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableDataBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\OldSolution\\TableDataBuilder.cs",
+              "RelativeDocumentMoniker": "NetUnderTheHoodAssignment\\OldSolution\\TableDataBuilder.cs",
+              "ToolTip": "C:\\Users\\vince\\OneDrive\\UltimateCSharp\\NetUnderHoodAssignment\\NetUnderTheHoodAssignment\\NetUnderTheHoodAssignment\\OldSolution\\TableDataBuilder.cs",
+              "RelativeToolTip": "NetUnderTheHoodAssignment\\OldSolution\\TableDataBuilder.cs",
+              "ViewState": "AQIAAAcAAACAMTMzMzMvwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:03:08.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
