@@ -14,6 +14,8 @@ foreach (var item in customLinkedList)
     Console.WriteLine(item);
 }
 
+Console.WriteLine(customLinkedList.Contains("Segun"));
+
 public record Node<T>
 {
     public T Value { get; set; }
@@ -95,7 +97,6 @@ public class CustomLinkedList<T> : ILinkedList<T>
 
     public void Clear()
     {
-        // throw new NotImplementedException();
         if (First is  not null)
         {
             First = null;
@@ -105,12 +106,27 @@ public class CustomLinkedList<T> : ILinkedList<T>
 
     public bool Contains(T item)
     {
-        throw new NotImplementedException();
+        var nodeToFind = new Node<T>(item);
+        var nodeToCheck = First;
+        while (nodeToCheck != null)
+        {
+            if (nodeToCheck.Value!.Equals(nodeToFind.Value))
+            {
+                return true;
+            }
+            nodeToCheck = nodeToCheck.Next;
+        }
+        return false;
     }
 
     public void CopyTo(T[] array, int arrayIndex)
     {
         throw new NotImplementedException();
+        // throw null exceptn if node.value is null
+        // throw arg ex if node.value type does not match array type
+        // throw arg out of range ex if Count of collection > arrayLength - index 
+
+        // loop through each node.value and copy to the correct index in array
     }
 
     public IEnumerator<T> GetEnumerator()
@@ -125,13 +141,12 @@ public class CustomLinkedList<T> : ILinkedList<T>
 
     public bool Remove(T item)
     {
-        // throw new NotImplementedException();
         var nodeToRemove = new Node<T>(item);
         var nodeToCheck = First;
         while (nodeToCheck is not null)
         {
             //if (nodeToCheck.Equals(nodeToRemove))
-            if (nodeToCheck.Value.Equals(nodeToRemove.Value))
+            if (nodeToCheck.Value!.Equals(nodeToRemove.Value))
             {
                 var nextNode = nodeToCheck.Next;
                 var previousNode = nodeToCheck.Previous;

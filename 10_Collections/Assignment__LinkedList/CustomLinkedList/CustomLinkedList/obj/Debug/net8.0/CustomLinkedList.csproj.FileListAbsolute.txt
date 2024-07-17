@@ -12,3 +12,4 @@ C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\Assignment__LinkedList\Cus
 C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\Assignment__LinkedList\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.pdb
 C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\Assignment__LinkedList\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.genruntimeconfig.cache
 C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\Assignment__LinkedList\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\ref\CustomLinkedList.dll
+C:\Users\vince\OneDrive\UltimateCSharp\10_Collections\Assignment__LinkedList\CustomLinkedList\CustomLinkedList\obj\Debug\net8.0\CustomLinkedList.sourcelink.json
