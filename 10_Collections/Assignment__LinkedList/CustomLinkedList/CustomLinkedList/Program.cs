@@ -16,6 +16,18 @@ foreach (var item in customLinkedList)
 
 Console.WriteLine(customLinkedList.Contains("Segun"));
 
+Console.WriteLine();
+Console.WriteLine("***** Copy To Array *******");
+Console.WriteLine();
+
+string[] myArray = [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" ];
+customLinkedList.CopyTo(myArray, 1);
+
+foreach (var item in myArray)
+{
+    Console.WriteLine(item);
+}
+
 public record Node<T>
 {
     public T Value { get; set; }
@@ -121,12 +133,33 @@ public class CustomLinkedList<T> : ILinkedList<T>
 
     public void CopyTo(T[] array, int arrayIndex)
     {
-        throw new NotImplementedException();
+        //throw new NotImplementedException();
+
         // throw null exceptn if node.value is null
         // throw arg ex if node.value type does not match array type
         // throw arg out of range ex if Count of collection > arrayLength - index 
+        if (Count > array.Length - arrayIndex)
+        {
+            throw new ArgumentOutOfRangeException("Collection is too big for array.");
+        }
 
         // loop through each node.value and copy to the correct index in array
+        var toCopy = First;
+        while(toCopy is not null)
+        {
+            if (toCopy.Value is null)
+            {
+                throw new ArgumentNullException();
+            }
+            //if (toCopy.Value.GetType() is not typeof(T))
+            //{
+            //    throw new ArgumentException();
+            //}
+            array[arrayIndex] = toCopy.Value;
+            toCopy = toCopy.Next;
+            arrayIndex++;
+        }
+
     }
 
     public IEnumerator<T> GetEnumerator()
